@@ -1,0 +1,122 @@
+[
+  {
+    "dateutc": "2025-07-01",
+    "tempf": 75.0,
+    "humidity": 60.0,
+    "dewptf": 59.0,
+    "pressure": 30.1,
+    "windchillf": 74.0,
+    "windspeedmph": 15.0,
+    "winddir": 180,
+    "rainin": 0.0,
+    "UV": 6
+  },
+  {
+    "dateutc": "2025-07-02",
+    "tempf": 78.3,
+    "humidity": 55.0,
+    "dewptf": 60.2,
+    "pressure": 30.0,
+    "windchillf": 77.0,
+    "windspeedmph": 6.5,
+    "winddir": 190,
+    "rainin": 0.1,
+    "UV": 7
+  },
+  {
+    "dateutc": "2025-07-03",
+    "tempf": 82.1,
+    "humidity": 52.0,
+    "dewptf": 62.5,
+    "pressure": 29.9,
+    "windchillf": 80.0,
+    "windspeedmph": 7.2,
+    "winddir": 170,
+    "rainin": 0.0,
+    "UV": 8
+  },
+  {
+    "dateutc": "2025-07-04",
+    "tempf": 85.0,
+    "humidity": 50.0,
+    "dewptf": 64.1,
+    "pressure": 29.8,
+    "windchillf": 83.0,
+    "windspeedmph": 8.3,
+    "winddir": 160,
+    "rainin": 0.0,
+    "UV": 9
+  },
+  {
+    "dateutc": "2025-07-05",
+    "tempf": 88.2,
+    "humidity": 48.0,
+    "dewptf": 65.0,
+    "pressure": 29.7,
+    "windchillf": 87.0,
+    "windspeedmph": 9.0,
+    "winddir": 150,
+    "rainin": 0.05,
+    "UV": 10
+  },
+  {
+    "dateutc": "2025-07-06",
+    "tempf": 90.5,
+    "humidity": 46.0,
+    "dewptf": 66.2,
+    "pressure": 29.6,
+    "windchillf": 89.0,
+    "windspeedmph": 10.2,
+    "winddir": 140,
+    "rainin": 0.2,
+    "UV": 9
+  },
+  {
+    "dateutc": "2025-07-07",
+    "tempf": 87.6,
+    "humidity": 49.0,
+    "dewptf": 64.0,
+    "pressure": 30.2,
+    "windchillf": 86.0,
+    "windspeedmph": 6.8,
+    "winddir": 135,
+    "rainin": 0.0,
+    "UV": 8
+  },
+  {
+    "dateutc": "2025-07-08",
+    "tempf": 84.3,
+    "humidity": 53.0,
+    "dewptf": 63.2,
+    "pressure": 30.0,
+    "windchillf": 82.0,
+    "windspeedmph": 7.5,
+    "winddir": 145,
+    "rainin": 0.1,
+    "UV": 7
+  },
+  {
+    "dateutc": "2025-07-09",
+    "tempf": 79.4,
+    "humidity": 58.0,
+    "dewptf": 61.5,
+    "pressure": 30.1,
+    "windchillf": 78.0,
+    "windspeedmph": 5.9,
+    "winddir": 160,
+    "rainin": 0.0,
+    "UV": 6
+  },
+  {
+    "dateutc": "2025-07-10",
+    "tempf": 76.0,
+    "humidity": 63.0,
+    "dewptf": 60.0,
+    "pressure": 30.3,
+    "windchillf": 75.0,
+    "windspeedmph": 4.8,
+    "winddir": 175,
+    "rainin": 0.3,
+    "UV": 5
+  }
+]
